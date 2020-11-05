@@ -82,7 +82,7 @@ To render images is almost the same as link, with the square bracket followed by
 
 ## Github Markdown
 
-starting triple backticks and ending triple backticks creates a more darker area for our code, or set of instructions. Like so;
+starting triple backticks and ending triple backticks creates a lighter area for our code, or set of instructions. Like so;
 
 ```
     1. This is the first line of instruction
